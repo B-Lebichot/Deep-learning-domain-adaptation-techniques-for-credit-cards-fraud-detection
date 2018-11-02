@@ -2,10 +2,8 @@
 Code for the paper ''Deep-learning domain adaptation techniques for credit cards fraud detection''
 See this preprint for reference : ADD A LINK TO PREPRINT
 
-Code will be available on Friday 02/11/18 (01/11/18 is holiday in Belgium !)
-
 The data we used are under NDA in collaboration with Worldline SA/NV (https://be.worldline.com/content/worldline-be/en/home.html).
-I therefore used an anonymised, rather similar (but not equivalement), version of our data available here :
+I therefore used an anonymized, rather similar (but not equivalement), version of our data available here :
 https://www.kaggle.com/samkirkiles/credit-card-fraud/data
 
 The code for method AugDNN in a jupyter notebook (see the paper) is available but I still have to bridge the Kaggle data...
