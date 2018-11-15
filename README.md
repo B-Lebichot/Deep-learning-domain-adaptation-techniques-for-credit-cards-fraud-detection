@@ -6,6 +6,7 @@ The data we used are under NDA in collaboration with Worldline SA/NV (https://be
 If you are interested, an anonymized, rather similar (but not equivalent), version of our data is available here :
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 Sadly, those data contains only e-commerce transactions: It is therefore not possible to use it to mimic face-to-face data.
+For any purpose, we included a toy example of a few fictional data.
 
 The code for method AugDNN in a Jupyter notebook (see the paper) is available in AugDNN.ipynb.
 
