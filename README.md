@@ -1,10 +1,11 @@
 # Deep-learning-domain-adaptation-techniques-for-credit-cards-fraud-detection
 Code for the paper ''Deep-learning domain adaptation techniques for credit cards fraud detection''
-See this preprint for reference : ADD A LINK TO PREPRINT
+See this preprint for reference : https://b-lebichot.github.io/publications/Deep-learning%20domain%20adaptation%20techniques%20for%20credit%20card%20fraud%20detection%20-%20preprint.pdf
 
 The data we used are under NDA in collaboration with Worldline SA/NV (https://be.worldline.com/content/worldline-be/en/home.html).
 If you are interested, an anonymized, rather similar (but not equivalent), version of our data is available here :
-https://www.kaggle.com/mlg-ulb/creditcardfraud
+https://www.kaggle.com/mlg-ulb/creditcardfraud.
+
 Sadly, those data contains only e-commerce transactions: It is therefore not possible to use it to mimic face-to-face data.
 For any purpose, we included a toy example of a few fictional data.
 
